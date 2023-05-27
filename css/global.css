@@ -19,6 +19,7 @@
     justify-content: space-between;
 }
 
+/* 
 .bottom {
     background-color: white;
     padding: 1rem 5rem;
@@ -35,3 +36,10 @@
     justify-content: space-around;
     align-content: space-between;
 }
+
+.footer {
+    background-color: white;
+    padding: 1rem 5rem;
+    display: flex;
+    align-items: center;
+} */
